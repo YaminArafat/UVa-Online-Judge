@@ -1,1 +1,1 @@
-2
+0 knights may be placed on a 1 row 0 column board.
