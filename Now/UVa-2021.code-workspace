@@ -6,7 +6,8 @@
 	],
 	"settings": {
 		"files.associations": {
-			"utility": "cpp"
+			"utility": "cpp",
+			"iostream": "cpp"
 		}
 	}
 }
