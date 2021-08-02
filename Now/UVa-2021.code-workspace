@@ -7,7 +7,8 @@
 	"settings": {
 		"files.associations": {
 			"utility": "cpp",
-			"iostream": "cpp"
+			"iostream": "cpp",
+			"map": "cpp"
 		}
 	}
 }
